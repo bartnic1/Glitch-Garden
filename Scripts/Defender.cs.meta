@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8dbc170b988f3443a796d987fd0dee0
+timeCreated: 1512015604
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zucchini: {fileID: 1877344432307074, guid: dd63d5037b5c3e64ab9051a3e764b204, type: 2}
+  - axe: {fileID: 1233328809841426, guid: fcda18b9c39ca914db2e511fdb4294ee, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
